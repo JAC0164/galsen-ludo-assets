@@ -7,3 +7,4 @@ Le plugin et le format sont décrits dans le dépôt `godot-galsen-promo`.
 - **Jeu sorti :** passer son `enabled` à `true`.
 - Garder `id` stable : il sert à la mesure (`promo_game`) et au réglage `galsen_promo/game_id` du jeu.
 - Les jeux relisent le flux au plus toutes les 12 h. Le cache de GitHub dure quelques minutes.
+- **Changer une icône :** lui donner un nouveau nom de fichier (`baat_yi_v2.png`) et mettre à jour `icon`. Les jeux gardent les icônes par adresse et ne retéléchargent pas un fichier remplacé.
