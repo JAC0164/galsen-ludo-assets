@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "ludo_senegal",
+      "enabled": true,
+      "weight": 1,
+      "name": {
+        "fr": "Ludo Sénégal",
+        "en": "Ludo Senegal"
+      },
+      "tagline": {
+        "fr": "Le ludo du quartier en ligne : barrage, wiri et lokati",
+        "en": "Senegalese Ludo online: barrage, wiri and lokati"
+      },
+      "cta": {
+        "fr": "Jouer",
+        "en": "Play"
+      },
+      "icon": "https://raw.githubusercontent.com/JAC0164/galsen-ludo-assets/main/promo/icons/ludo_senegal.png",
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=sn.galsengames.ludosenegal",
+        "windows": "https://apps.microsoft.com/detail/9P2FNF1NR6B4"
+      }
+    },
+    {
+      "id": "douze_pions",
+      "enabled": false,
+      "weight": 1,
+      "name": {
+        "fr": "12 Pions Sénégal",
+        "en": "12 Pions Senegal"
+      },
+      "tagline": {
+        "fr": "Le jeu de dames du Sénégal : cailloux contre bâtonnets",
+        "en": "Senegal's checkers: pebbles against sticks"
+      },
+      "cta": {
+        "fr": "Découvrir",
+        "en": "Try it"
+      },
+      "icon": "https://raw.githubusercontent.com/JAC0164/galsen-ludo-assets/main/promo/icons/douze_pions.png",
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=sn.galsengames.douzepions"
+      }
+    },
+    {
+      "id": "baat_yi",
+      "enabled": false,
+      "weight": 1,
+      "name": {
+        "fr": "Baat Yi",
+        "en": "Baat Yi"
+      },
+      "tagline": {
+        "fr": "Relie les lettres et apprends à écrire le wolof",
+        "en": "Link letters and learn to write Wolof"
+      },
+      "cta": {
+        "fr": "Découvrir",
+        "en": "Try it"
+      },
+      "icon": "https://raw.githubusercontent.com/JAC0164/galsen-ludo-assets/main/promo/icons/baat_yi.png",
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=sn.galsengames.baatyi"
+      }
+    }
+  ]
+}
